@@ -4,3 +4,4 @@ Code:
 	
 Ideas:
 	weapon to combine all
+	3 'edge' weapons with different elements, all combine
