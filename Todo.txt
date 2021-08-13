@@ -1,0 +1,6 @@
+Textures:
+	make soul of spite animated
+Code:
+	
+Ideas:
+	weapon to combine all
